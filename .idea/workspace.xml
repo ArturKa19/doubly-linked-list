@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9084eb0c-ecbb-4009-a20c-46854146eda0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/linked-list.js" afterPath="$PROJECT_DIR$/src/linked-list.js" />
-    </list>
+    <list default="true" id="9084eb0c-ecbb-4009-a20c-46854146eda0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -145,7 +140,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Работа/SassLanding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../finite-state-machine" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
@@ -187,12 +182,12 @@
       <workItem from="1505996671431" duration="617000" />
       <workItem from="1506012846246" duration="13280000" />
       <workItem from="1506085091213" duration="42000" />
-      <workItem from="1506094472557" duration="7760000" />
+      <workItem from="1506094472557" duration="8379000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21699000" />
+    <option name="totallyTimeSpent" value="22318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
